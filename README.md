@@ -13,5 +13,5 @@ Informal: retorna somente o primeiro nome </br>
 Respeitoso: deve receber em seu construtor a informação se é masculino ou feminino, e retornar "Sr." ou "Sra." seguido do sobrenome</br>
 ComTítulo: deve receber em seu construtor o título e retornar o título seguido de nome e sobrenome. Exemplo: "Magnífico Pedro Cabral"</br>
 Crie testes de unidade que fazem os testes da classe Autoridade com cada uma das implementações da interface.</br>
-
+</br>
 <b> IDE Eclipse </b>
